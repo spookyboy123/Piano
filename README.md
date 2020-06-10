@@ -1,11 +1,11 @@
 Make sure that you have:
 
-- 'Chrome Web' Driver
+- Chrome Web Driver
 
-- 'Selenium' Module
+- Selenium Module
 
-- 'Keyboard' Module
+- Keyboard Module
 
-- 'Time' Module
+- Time Module
 
-- 'Random' Module
+- Random Module
