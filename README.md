@@ -1,5 +1,5 @@
 # Piano Project
----
+
 ## Make sure you have:
 #### - **Chrome Web Driver**
 #### - **Selenium** Module
